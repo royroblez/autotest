@@ -1,4 +1,4 @@
-package com.ibm.autotest.constants;
+package com.tenzing.autotest.constants;
 
 public enum Browsers {
 	FIREFOX,

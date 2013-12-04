@@ -1,4 +1,4 @@
-package com.ibm.autotest.utils;
+package com.tenzing.autotest.utils;
 
 import java.awt.Toolkit;
 import java.io.IOException;
@@ -17,7 +17,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.safari.SafariDriver;
 
-import com.ibm.autotest.constants.Browsers;
+import com.tenzing.autotest.constants.Browsers;
 
 public class BrowserFactory {
 

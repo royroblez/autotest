@@ -1,4 +1,4 @@
-package com.ibm.autotest.mockapplication;
+package com.tenzing.autotest.mockapplication;
 
 public class User {
 	private String username;

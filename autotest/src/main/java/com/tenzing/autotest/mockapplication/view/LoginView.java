@@ -1,11 +1,11 @@
-package com.ibm.autotest.mockapplication.view;
+package com.tenzing.autotest.mockapplication.view;
 
 import java.util.logging.Logger;
 
 import org.openqa.selenium.support.PageFactory;
 
-import com.ibm.autotest.mockapplication.containers.LoginPageContainer;
-import com.ibm.autotest.utils.BrowserDriver;
+import com.tenzing.autotest.mockapplication.containers.LoginPageContainer;
+import com.tenzing.autotest.utils.BrowserDriver;
 
 public class LoginView {
 	private static final Logger LOGGER = Logger.getLogger(LoginView.class.getName());

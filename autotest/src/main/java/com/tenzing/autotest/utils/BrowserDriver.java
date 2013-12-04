@@ -1,4 +1,4 @@
-package com.ibm.autotest.utils;
+package com.tenzing.autotest.utils;
 
 import java.util.List;
 import java.util.logging.Logger;

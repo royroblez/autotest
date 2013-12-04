@@ -1,4 +1,4 @@
-package com.ibm.autotest.mockappication;
+package com.tenzing.autotest.mockappication;
 
 import org.junit.runner.RunWith;
 import cucumber.junit.Cucumber;

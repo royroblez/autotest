@@ -1,8 +1,8 @@
-package com.ibm.autotest.mockappication;
+package com.tenzing.autotest.mockappication;
 
 import java.util.logging.Logger;
 
-import com.ibm.autotest.mockapplication.NaviagtorFactory;
+import com.tenzing.autotest.mockapplication.NaviagtorFactory;
 
 import cucumber.annotation.en.Given;
 import cucumber.annotation.en.Then;

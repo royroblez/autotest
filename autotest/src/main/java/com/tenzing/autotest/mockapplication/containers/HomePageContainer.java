@@ -1,4 +1,4 @@
-package com.ibm.autotest.mockapplication.containers;
+package com.tenzing.autotest.mockapplication.containers;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

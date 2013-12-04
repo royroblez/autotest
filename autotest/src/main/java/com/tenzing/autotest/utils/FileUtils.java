@@ -1,4 +1,4 @@
-package com.ibm.autotest.utils;
+package com.tenzing.autotest.utils;
 
 import java.io.File;
 import java.net.URISyntaxException;

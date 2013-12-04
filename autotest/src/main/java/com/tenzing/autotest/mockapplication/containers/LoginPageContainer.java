@@ -1,11 +1,11 @@
-package com.ibm.autotest.mockapplication.containers;
+package com.tenzing.autotest.mockapplication.containers;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
-import com.ibm.autotest.utils.BrowserDriver;
+import com.tenzing.autotest.utils.BrowserDriver;
 
 public class LoginPageContainer {
 	private String validationContainerCSS = "div.dijitValidationContainer";

@@ -1,9 +1,9 @@
-package com.ibm.autotest.mockapplication;
+package com.tenzing.autotest.mockapplication;
 
-import com.ibm.autotest.constants.CredentialsType;
-import com.ibm.autotest.constants.Outcome;
-import com.ibm.autotest.mockapplication.view.LoginView;
-import com.ibm.autotest.utils.BrowserDriver;
+import com.tenzing.autotest.constants.CredentialsType;
+import com.tenzing.autotest.constants.Outcome;
+import com.tenzing.autotest.mockapplication.view.LoginView;
+import com.tenzing.autotest.utils.BrowserDriver;
 
 public class Navigation {
 	private User user;
