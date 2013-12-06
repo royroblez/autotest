@@ -28,4 +28,7 @@ public class LoginSteps {
 		LOGGER.info("Entering: I should see that I logged in " + outcome);
 		NaviagtorFactory.getNavigator().then_I_login(outcome);
 	}
+	
+
+	
 }
