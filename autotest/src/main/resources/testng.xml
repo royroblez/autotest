@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Suite" verbose="3" parallel="classes" thread-count="2">
+<!-- Hook JUnit to TestNG -->
+   <test name="JUnitTests" junit="true">
+        <classes>
+            <class name="com.tenzing.autotest.mockappication.LoginTest" />
+        </classes>
+    </test>
+
+</suite>

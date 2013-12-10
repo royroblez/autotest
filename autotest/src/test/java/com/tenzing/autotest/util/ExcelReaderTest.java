@@ -13,7 +13,7 @@ public class ExcelReaderTest {
 	public static void main(String args[]){
 		try
         {
-            FileInputStream file = new FileInputStream(new File("howtodoinjava_demo.xlsx"));
+            FileInputStream file = new FileInputStream(new File("c:\\dev\\temp\\howtodoinjava_demo.xlsx"));
  
             //Create Workbook instance holding reference to .xlsx file
             XSSFWorkbook workbook = new XSSFWorkbook(file);
@@ -41,6 +41,7 @@ public class ExcelReaderTest {
                         case Cell.CELL_TYPE_STRING:
                             System.out.print(cell.getStringCellValue() + "\t");
                             break;
+                         
                     }
                 }
                 System.out.println("");

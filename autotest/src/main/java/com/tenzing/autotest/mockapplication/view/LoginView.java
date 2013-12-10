@@ -3,6 +3,7 @@ package com.tenzing.autotest.mockapplication.view;
 import java.util.logging.Logger;
 
 import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.Test;
 
 import com.tenzing.autotest.mockapplication.containers.LoginPageContainer;
 import com.tenzing.autotest.utils.BrowserDriver;
